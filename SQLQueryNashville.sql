@@ -1,8 +1,3 @@
-/*
-THE TABLEAU DASHBOARD CAN BE FOUND HERE:
-https://public.tableau.com/views/COVIDDashboard_16660207735190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-*/
-
 -- Select all columns from the table to inspect it
 SELECT * FROM Tobiloba..Nashville
 
