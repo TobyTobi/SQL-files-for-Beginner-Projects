@@ -1,5 +1,4 @@
--- COVID data was gathered from 
---https://ourworldindata.org/covid-cases
+-- COVID data was gathered from https://ourworldindata.org/covid-cases
 
 -- View World Population table
 SELECT * FROM [Tobiloba].[dbo].[worldpop]
